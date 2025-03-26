@@ -8,11 +8,11 @@ import "./Projects.css";
 const projects: ProjectProps[] = [
   // Project 1
   {
-    websiteHref: "https://github.com/wderocco8/Grub-Gallery",
+    websiteHref: "https://github.com/evelynkwan/appeasement",
     imgSrc: "/images/projects/project1.jpeg",
-    title: "Grub Gallery",
+    title: "Appeasement",
     description:
-      "Grub Gallery is a dynamic web application built using the MERN stack, integrating Google OAuth, Spoonacular API, and Google Calendar API. This project allows users to discover and personalize dishes and recipes effortlessly.",
+      "A Pokemon style RPG with an audience appeasement system and randomly generated turn based fights with upgrades along the way",
   },
   // Project 2
   {
