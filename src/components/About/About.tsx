@@ -17,8 +17,7 @@ const aboutData: AboutData = {
       </p>
       <p>
         I love all forms of art and learning new skills in different respects. 
-        To learn more about what I've been working on, feel free to check out my 
-        <a href="https://github.com/wderocco8">GitHub</a>{" "}.
+        To learn more about what I've been working on, feel free to check out my <a href="https://github.com/wderocco8">GitHub</a>.
       </p>
     </>
   ),

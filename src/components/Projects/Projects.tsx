@@ -16,11 +16,11 @@ const projects: ProjectProps[] = [
   },
   // Project 2
   {
-    websiteHref: "https://github.com/wderocco8/ZipSurf",
+    websiteHref: "https://github.com/evelynkwan/betterbikepath.github.io",
     imgSrc: "/images/projects/project2.jpeg",
-    title: "ZipSurf",
+    title: "Get-A-Way",
     description:
-      "ZipSurf is a React based web application designed to enabling users to create, save, delete, and export shortened URLs.",
+      "Get-A-Way is a web application designed to create safer bike routes by avoiding hazardous areas",
   },
 ];
 

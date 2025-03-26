@@ -11,19 +11,14 @@ import {
 
 // TODO: replace this with your actual experiences (you can write MUCH more than I did...)
 const USER_BACKGROUND = `
-My Name is William De Rocco.
+My Name is Evelyn Kwan.
 
-I am a senior at Boston University studying Computer Science.
-I worked at Rhapsody Health as a Full Stack Software Engineer Intern in the Summer of 2024, 
-where I used Typescript-React, Jest, Dotnet, Docker, Kubernetes... etc.
-I'm planning to start working at Fidelity as a LEAP Software Engineer in May of 2025.
+I am a freshman at Boston University studying Data Science with a minor in Business Adminstration.
+I worked at Game Development Intern at Boston Cyberarts in Summer 2024 where I used Unity, C#, and Figma.
+I currently don't have any plans for Summer 2025 besides traveling.
 
-I specialize in React, TypeScript, and Node.js development.
-I've built and contributed to many web applications including an attendence and application management
- system called WhyPhi and, most recently, an open-source Raycast extension called Huggingcast.
-
-I enjoy rock climbing, cooking, running, and yes... coding in my free time.
-I speak English fluently and am intermediate in Italian.
+I enjoy sleeping, playing games, crocheting, traveling, shopping, and trying different matchas.
+I speak English fluently but I know a little bit of Cantonese, French, and Latin from school.
 `;
 
 /**

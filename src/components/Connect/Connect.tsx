@@ -11,9 +11,9 @@ interface ConnectData {
  * with your personal information.
  */
 const connectData: ConnectData = {
-  email: "wderocco@bu.edu",
-  linkedin: "https://www.linkedin.com/in/william-derocco/",
-  github: "https://github.com/wderocco8", // TODO: delete this line if you don't have a GitHub (or just create one 🤠)
+  email: "evekwan@bu.edu",
+  linkedin: "https://www.linkedin.com/in/evelynkwan/",
+  github: "https://github.com/evelynkwan", // TODO: delete this line if you don't have a GitHub (or just create one 🤠)
 };
 
 /**
