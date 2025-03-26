@@ -2,20 +2,20 @@
 
 :root {
   /* Light mode colors */
-  --primary-color: hsl(197, 98%, 80%);
+  --primary-color: hsl(313, 98%, 80%);
   --secondary-color: hsl(14, 100%, 93%);
   --text-color: hsl(0, 0%, 0%);
   --accent-color: hsla(27, 94%, 87%, 0.529);
-  --nav-background: hsl(197, 98%, 80%, 0.7);
+  --nav-background: hsla(321, 98%, 80%, 0.7);
   --link-hover-color: hsl(0, 0%, 0%);
   --chatbot-assistant: hsl(0, 0%, 94%);
 
   /* Dark mode colors */
-  --primary-color-dark: hsl(214, 21%, 30%);
-  --secondary-color-dark: hsl(210, 29%, 24%);
+  --primary-color-dark: hsl(312, 16%, 31%);
+  --secondary-color-dark: hsl(326, 30%, 24%);
   --text-color-dark: hsl(0, 0%, 94%);
   --accent-color-dark: hsl(0, 0%, 37%);
-  --nav-background-dark: hsl(214, 21%, 30%, 0.7);
+  --nav-background-dark: hsla(338, 40%, 18%, 0.7);
   --link-hover-color-dark: hsl(0, 0%, 100%);
   --chatbot-assistant-dark: hsl(0, 0%, 37%);
 }
