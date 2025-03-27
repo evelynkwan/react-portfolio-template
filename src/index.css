@@ -11,13 +11,13 @@
   --chatbot-assistant: hsl(0, 0%, 94%);
 
   /* Dark mode colors */
-  --primary-color-dark: hsl(312, 16%, 31%);
+  --primary-color-dark: hsl(317, 20%, 28%);
   --secondary-color-dark: hsl(326, 30%, 24%);
   --text-color-dark: hsl(0, 0%, 94%);
-  --accent-color-dark: hsl(0, 0%, 37%);
-  --nav-background-dark: hsla(338, 40%, 18%, 0.7);
+  --accent-color-dark: hsl(329, 51%, 16%);
+  --nav-background-dark: hsla(327, 39%, 18%, 0.7);
   --link-hover-color-dark: hsl(0, 0%, 100%);
-  --chatbot-assistant-dark: hsl(0, 0%, 37%);
+  --chatbot-assistant-dark: hsl(317, 75%, 14%);
 }
 
 * {

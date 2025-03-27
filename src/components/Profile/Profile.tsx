@@ -21,9 +21,9 @@ const profileData: ProfileData = {
     "Evelyn Kwan :)",
   ],
   graduatingClass: 2028,
-  majorMinor: "B.S. in Data Science, Minor in Business Adminstration",
+  majorMinor: "B.S. in Data Science, Minor in Business",
   websiteHref: "https://github.com/evelynkwan",
-  imgSrc: "/images/profile/profile.jpeg",
+  imgSrc: "/images/profile/profile.jpg",
   currentPosition: "Unemployed Student"
 };
 

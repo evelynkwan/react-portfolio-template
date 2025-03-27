@@ -49,7 +49,7 @@ const activities: ActivityProps[] = [
   {
     imgSrc: "/images/activities/activity3.jpeg",
     imgAlt: "matcha.",
-    title: "Making Matcha",
+    title: "Matcha!!!",
     description: (
       <>
         <p>
